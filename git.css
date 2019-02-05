@@ -6,3 +6,13 @@ section h3{
     color: dimgray;
     font-size: 2em;
 }
+nav{
+    display: flex;
+    justify-content: flex-end;
+    background-color: black;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 20px 40px;
+}
